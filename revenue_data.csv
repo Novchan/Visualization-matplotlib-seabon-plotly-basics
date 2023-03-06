@@ -1,0 +1,201 @@
+Rank,Company,Revenue,Industry
+1,Walmart,523964,Professional Services
+2,Sinopec Group,407009,Professional Services
+3,State Grid,383906,Professional Services
+4,China National Petroleum,379130,Tech
+5,Royal Dutch Shell,352106,Professional Services
+6,Saudi Aramco,329784,Oil
+7,Volkswagen,282760,Oil
+8,BP,282616,Professional Services
+9,Amazon.com,280522,Professional Services
+10,Toyota Motor,275288,Pharmaceuticals
+11,Exxon Mobil,264938,Pharmaceuticals
+12,Apple,260174,Tech
+13,CVS Health,256776,Pharmaceuticals
+14,Berkshire Hathaway,254616,Oil
+15,UnitedHealth Group,242155,Oil
+16,McKesson,231051,Professional Services
+17,Glencore,215111,Professional Services
+18,China State Construction Engineering,205839,Oil
+19,Samsung Electronics,197705,Tech
+20,Daimler,193346,Pharmaceuticals
+21,Ping An Insurance,184280,Pharmaceuticals
+22,AT&T,181193,Pharmaceuticals
+23,AmerisourceBergen,179589,Oil
+24,Industrial & Commercial Bank of China,177069,Professional Services
+25,Total,176249,Tech
+26,Hon Hai Precision Industry,172869,Tech
+27,Trafigura Group,171474,Tech
+28,EXOR Group,162754,Tech
+29,Alphabet,161857,Oil
+30,China Construction Bank,158884,Professional Services
+31,Ford Motor,155900,Pharmaceuticals
+32,Cigna,153566,Oil
+33,Costco Wholesale,152703,Pharmaceuticals
+34,AXA,148984,Oil
+35,Agricultural Bank of China,147313,Tech
+36,Chevron,146516,Pharmaceuticals
+37,Cardinal Health,145534,Pharmaceuticals
+38,JPMorgan Chase,142422,Pharmaceuticals
+39,Honda Motor,137332,Oil
+40,General Motors,137237,Pharmaceuticals
+41,Walgreens Boots Alliance,136866,Oil
+42,Mitsubishi,135940,Pharmaceuticals
+43,Bank of China,135091,Pharmaceuticals
+44,Verizon Communications,131868,Professional Services
+45,China Life Insurance,131244,Oil
+46,Allianz,130359,Oil
+47,Microsoft,125843,Oil
+48,Marathon Petroleum,124813,Professional Services
+49,Huawei Investment & Holding,124316,Tech
+50,China Railway Engineering Group,123324,Pharmaceuticals
+51,Kroger,122286,Oil
+52,SAIC Motor,122071,Oil
+53,Fannie Mae,120304,Tech
+54,China Railway Construction,120302,Tech
+55,Gazprom,118009,Oil
+56,BMW Group,116638,Oil
+57,Lukoil,114621,Pharmaceuticals
+58,Bank of America,113589,Professional Services
+59,Home Depot,110225,Pharmaceuticals
+60,Japan Post Holdings,109915,Tech
+61,Phillips 66,109559,Tech
+62,Nippon Telegraph and Telephone,109448,Oil
+63,Comcast,108942,Tech
+64,China National Offshore Oil,108687,Professional Services
+65,China Mobile Communications,108527,Professional Services
+66,Assicurazioni Generali,105921,Professional Services
+67,Cr?dit Agricole,104972,Oil
+68,Anthem,104213,Tech
+69,Wells Fargo,103915,Tech
+70,Citigroup,103449,Pharmaceuticals
+71,Valero Energy,102729,Oil
+72,Itochu,100522,Tech
+73,HSBC Holdings,98673,Oil
+74,Siemens,97937,Tech
+75,Pacific Construction Group,97536,Pharmaceuticals
+76,Rosneft Oil,96313,Oil
+77,General Electric,95214,Oil
+78,China Communications Construction,95096,Tech
+79,China Resources,94758,Oil
+80,Prudential,93736,Tech
+81,Dell Technologies,92154,Tech
+82,Nestl?,92107,Pharmaceuticals
+83,Nissan Motor,90863,Oil
+84,Hyundai Motor,90740,Professional Services
+85,Legal & General Group,90615,Professional Services
+86,Deutsche Telekom,90135,Tech
+87,Enel,89907,Pharmaceuticals
+88,Aviva,89647,Pharmaceuticals
+89,China FAW Group,89417,Professional Services
+90,China Post Group,89347,Professional Services
+91,Amer International Group,88862,Tech
+92,China Minmetals,88357,Tech
+93,Banco Santander,88257,Oil
+94,SoftBank Group,87440,Professional Services
+95,Bosch Group,86990,Professional Services
+96,Reliance Industries,86270,Oil
+97,SK Holdings,86163,Professional Services
+98,Carrefour,85905,Professional Services
+99,BNP Paribas,85058,Tech
+100,Dongfeng Motor,84049,Oil
+101,Peugeot,83643,Tech
+102,JD.com,83505,Professional Services
+103,Tesco,82700,Oil
+104,Johnson & Johnson,82059,Pharmaceuticals
+105,China Southern Power Grid,81978,Professional Services
+106,Hitachi,80639,Professional Services
+107,Hengli Group,80588,Professional Services
+108,China Energy Investment,80498,Pharmaceuticals
+109,Sinochem Group,80376,Oil
+110,Electricit? de France,80278,Oil
+111,China Baowu Steel Group,79932,Tech
+112,People's Insurance Co. of China,79788,Oil
+113,ENI,79513,Pharmaceuticals
+114,State Farm Insurance,79395,Pharmaceuticals
+115,AEON,78930,Tech
+116,Airbus,78883,Oil
+117,Target,78112,Oil
+118,International Business Machines,77147,Tech
+119,Raytheon Technologies,77046,Professional Services
+120,Petrobras,76589,Tech
+121,Boeing,76559,Professional Services
+122,Sony,75972,Pharmaceuticals
+123,ENEOS Holdings,75897,Oil
+124,Aegon,75344,Pharmaceuticals
+125,Freddie Mac,75125,Pharmaceuticals
+126,CITIC Group,75115,Tech
+127,Centene,74639,Pharmaceuticals
+128,Royal Ahold Delhaize,74162,Professional Services
+129,UPS,74094,Tech
+130,Nippon Life Insurance,74048,Professional Services
+131,Uniper,73652,Professional Services
+132,Alibaba,73166,Tech
+133,Pemex,72820,Professional Services
+134,Beijing Automotive Group,72554,Professional Services
+135,Munich Re Group,72537,Oil
+136,COFCO,72149,Tech
+137,Lowe's,72148,Pharmaceuticals
+138,Intel,71965,Professional Services
+139,Zurich Insurance Group,71792,Oil
+140,PTT,71502,Professional Services
+141,U.S. Postal Service,71154,Tech
+142,Deutsche Post DHL Group,70895,Professional Services
+143,BASF,70723,Pharmaceuticals
+144,Facebook,70697,Oil
+145,Sinopharm,70690,Pharmaceuticals
+146,ArcelorMittal,70615,Professional Services
+147,Country Garden Holdings,70335,Professional Services
+148,FedEx,69693,Professional Services
+149,MetLife,69620,Pharmaceuticals
+150,Walt Disney,69570,Pharmaceuticals
+151,Indian Oil,69246,Oil
+152,China Evergrande Group,69127,Tech
+153,Panasonic,68897,Pharmaceuticals
+154,China North Industries Group,68714,Pharmaceuticals
+155,Brookfield Asset Management,67826,Professional Services
+156,Procter & Gamble,67684,Pharmaceuticals
+157,PowerChina,67371,Oil
+158,China Telecommunications,67365,Pharmaceuticals
+159,Engie,67220,Tech
+160,PepsiCo,67161,Pharmaceuticals
+161,Mitsubishi UFJ Financial Group,67135,Tech
+162,Bank of Communications,66564,Pharmaceuticals
+163,Aviation Industry Corp. of China,65909,Professional Services
+164,ChemChina,65767,Tech
+165,Dai-ichi Life Holdings,65434,Oil
+166,Humana,64888,Tech
+167,Prudential Financial,64807,Pharmaceuticals
+168,Archer Daniels Midland,64656,Tech
+169,Equinor,64357,Professional Services
+170,Lloyds Banking Group,64297,Oil
+171,Roche Group,63434,Oil
+172,Mitsui,63327,Tech
+173,Marubeni,62799,Tech
+174,Albertsons,62455,Pharmaceuticals
+175,Renault,62160,Oil
+176,Greenland Holding Group,61965,Professional Services
+177,Toyota Tsusho,61570,Tech
+178,Seven & I Holdings,60952,Tech
+179,Sysco,60114,Professional Services
+180,Christian Dior,60071,Tech
+181,Manulife Financial,59969,Professional Services
+182,Lockheed Martin,59812,Tech
+183,Alimentation Couche-Tard,59118,Professional Services
+184,HP,58756,Pharmaceuticals
+185,Unilever,58179,Professional Services
+186,Petronas,58027,Oil
+187,China National Building Material Group,57626,Tech
+188,Tokyo Electric Power,57407,Oil
+189,China Merchants Bank,57252,Professional Services
+190,Oil & Natural Gas,57171,Pharmaceuticals
+191,China Poly Group,57147,Oil
+192,Soci?t? G?n?rale,56852,Tech
+193,China Pacific Insurance (Group),55800,Pharmaceuticals
+194,POSCO,55592,Oil
+195,Vinci,54788,Professional Services
+196,Auchan Holding,54672,Professional Services
+197,Tencent Holdings,54613,Oil
+198,Nippon Steel Corporation,54465,Tech
+199,CNP Assurances,54365,Oil
+200,Energy Transfer,,Tech
